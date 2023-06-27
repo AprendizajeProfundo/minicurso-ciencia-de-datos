@@ -4,7 +4,7 @@
 [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/minicurso-ciencia-de-datos/blob/main/preliminares/cuadernos/ds_Roles_Data_science.ipynb),
 [GitHub](https://github.com/AprendizajeProfundo/minicurso-ciencia-de-datos/blob/main/preliminares/cuadernos/ds_Roles_Data_science.ipynb).
 - Introducción a Python:
-[Presentación](https://nbviewer.org/github/AprendizajeProfundo/minucurso-ciencia-de-datos/blob/main/preliminares/presentaciones/py_01_intro_python.slides.html#/),
+[Presentación](https://nbviewer.org/github/AprendizajeProfundo/minucurso-ciencia-de-datos/blob/main/intro%20python/presentaciones/py_01_intro_python.slides.html#/),
 [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/minicurso-ciencia-de-datos/blob/main/intro%20python/cuadernos/py_01_intro_python.ipynb),
 [GitHub](https://github.com/AprendizajeProfundo/minicurso-ciencia-de-datos/blob/main/intro%20python/cuadernos/py_01_intro_python.ipynb).
 - Introducción a Reducción de Dimensión:
