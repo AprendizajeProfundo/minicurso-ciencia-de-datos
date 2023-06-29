@@ -13,7 +13,7 @@
 [GitHub](https://github.com/AprendizajeProfundo/minucurso-ciencia-de-datos/blob/main/reduccion%20dimensiones/cuadernos/Intro_Reduce_Dimension.ipynb).
 - Análisis en Componentes Principales: [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/minucurso-ciencia-de-datos/blob/main/analisis%20componentes%20principales/cuadernos/IntroACP_1.ipynb), [GitHub](https://github.com/AprendizajeProfundo/minicurso-ciencia-de-datos/blob/main/analisis%20componentes%20principales/cuadernos/IntroACP_1.ipynb)
 - Máquinas de soporte vectorial:
-[Presentación](https://nbviewer.org/github/AprendizajeProfundo/minucurso-ciencia-de-datos/blob/main/maquinas%20soporte%20vectorial/presentaciones/Intro_SVM-2.slides_2.html#/](https://nbviewer.org/github/AprendizajeProfundo/minicurso-ciencia-de-datos/blob/main/maquinas%20soporte%20vectorial/presentaciones/Intro_SVM-2.slides_2.html#/3/2)),
+[Presentación](https://nbviewer.org/github/AprendizajeProfundo/minicurso-ciencia-de-datos/blob/main/maquinas%20soporte%20vectorial/presentaciones/Intro_SVM-2.slides_2.html#/3/2),
 [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/minucurso-ciencia-de-datos/blob/main/maquinas%20soporte%20vectorial/cuadernos/Intro_SVM-2_p.ipynb),
 [Github](https://github.com/AprendizajeProfundo/minucurso-ciencia-de-datos/blob/main/maquinas%20soporte%20vectorial/cuadernos/Intro_SVM-2_p.ipynb).
 - Máquinas de soporte vectorial - Teoría:
