@@ -23,3 +23,4 @@
 - Máquinas de soporte vectorial - Ejemplos:
 [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/minucurso-ciencia-de-datos/blob/main/maquinas%20soporte%20vectorial/cuadernos/svm_020_SVM-ejempls.ipynb),
 [GitHub](https://github.com/AprendizajeProfundo/minucurso-ciencia-de-datos/blob/main/maquinas%20soporte%20vectorial/cuadernos/svm_020_SVM-ejempls.ipynb).
+
